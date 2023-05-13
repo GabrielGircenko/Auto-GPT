@@ -148,6 +148,6 @@ We look forward to connecting with you and hearing your thoughts, ideas, and exp
 
 <p align="center">
   <a href="https://star-history.com/#Torantulino/auto-gpt&Date">
-    <img src="https://api.star-history.com/svg?repos=Torantulino/auto-gpt&type=Date" alt="Star History Chart">
+    <img src="https://api.star-history.com/svg?repos=Significant-Gravitas/Auto-GPT&type=Date" alt="Star History Chart">
   </a>
 </p>
